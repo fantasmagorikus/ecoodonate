@@ -12,7 +12,7 @@
     "firebase": "^9.22.1",
     "nvm": "^0.0.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.2.0",
     "react-hook-form": "^7.44.3",
     "react-router-dom": "^5.3.4",
     "react-scripts": "^2.1.3",
